@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+הפכו את ילדיכם לכוכבים! דפי צביעה מעוצבים עם שם הילד ותמונתו האישית. מוצר דיגיטלי מותאם אישית שמגיע ישירות למייל. הזמינו עכשיו!
+
+### איך זה עובד
+https://example.com/how-it-works
+3 צעדים פשוטים לדפי צביעה מותאמים אישית: העלו תמונה, בחרו עיצוב, וקבלו מוצר דיגיטלי מושלם תוך דקות. גלו איך זה עובד וצרו את הקסם!
+
+### שאלות נפוצות
+https://example.com/faq
+שאלות על איכות ההדפסה, זמן אספקה, או התאמה אישית? מצאו תשובות מפורטות לכל השאלות על דפי הצביעה המעוצבים שלנו. הכל כאן!
+
+### צור קשר
+https://example.com/contact
+יש לכם שאלה או בקשה מיוחדת? אנחנו כאן בשבילכם! צרו קשר והצוות שלנו יעזור לכם להפוך את הרעיון לדף צביעה מעוצב ומותאם אישית.
+
+### Products
+https://example.com/products
+המוצרים שלנו - ColorMe
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - ColorMe
+
+### Category
+https://example.com/category/:slug
+מוצרים - ColorMe
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
